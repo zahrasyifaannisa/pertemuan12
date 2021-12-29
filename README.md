@@ -23,4 +23,4 @@ Matkul : Bahas Pemograman
 4. di dalam statment *if elif else* di isikan dengan memanggil masing-masing method yang ada di dalam *class mahasiswa*.
 5. selesai
 ## **FLOWCHART**
-![syifa](1/pertemuan12.png)
+![syifa](/1.png)
